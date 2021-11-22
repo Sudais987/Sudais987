@@ -3,7 +3,7 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Muhammad Sudais</h1>
 <h3 align="center">and I'm from Pakistan 🇵🇰. I Learned Git/Github C, Html and CSS. I am a web developer and a software engineer.
 I am coding a Terminal Based and Open Scource Geography app Named Geo with C language, It is not full completed but Soon it will.
-i will publish the Source Code of that app on My GitHub when it will be ready. I am also Starting a New Course For Html on My Youtube Channel. </h3>
+I will publish the Source Code of that app on My GitHub when it will be ready. I am also Starting a New Course For Html and C on My Youtube Channel. </h3>
 
 <br>
 <br>
